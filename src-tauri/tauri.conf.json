@@ -42,10 +42,10 @@
       "endpoints": [
         "https://github.com/MonchiLin/antigravity-agent/releases/latest/download/latest.json"
       ],
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDAxNjMzMzFBNTI0MDU1QzAKUldUQVZVQlNHak5qQVUwMDJ5N2orNkozRFU4WklTTlpmY0NqMDRIUVFYOXdlSFByU2poRDdTSFEK",
       "windows": {
         "installMode": "passive"
-      }
+      },
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDA0NEM1Qzg0NTc2Q0Y2Q0YKUldUUDlteFhoRnhNQk0zK0o5OEdXWGsrNXd1d1VJTlRzUklYQ2hZZEwreVJyWjNObEhwMVcrbEUK"
     }
   },
   "app": {
